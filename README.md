@@ -4,6 +4,20 @@
 
 ---
 
+## Presenters
+
+| Presenter | Role | LinkedIn |
+|---|---|---|
+| **Abolfazl Zaraki** | Senior Lecturer in Robotics and AI | [Profile](https://www.linkedin.com/in/<handle>) |
+| **M. Reza Shahabian A.** | Principal AI Engineer \| AI Researcher | [Profile](https://www.linkedin.com/in/<handle>) |
+| **Khashayar Ghamati** | Principal AI Engineer \| AI Researcher | [Profile](https://www.linkedin.com/in/<handle>) |
+| **Ali Fallahi** | AI UX Researcher \| HRI | [Profile](https://www.linkedin.com/in/<handle>) |
+| **Danial Zafaranchizadeh M.** | AI Engineer \| Robotics Researcher | [Profile](https://www.linkedin.com/in/<handle>) |
+
+Brought to you by **PARSAI** and the **School of Physics, Engineering and Computer Science, University of Hertfordshire**.
+
+---
+
 ## Quick Start
 
 ```bash
@@ -192,5 +206,5 @@ Join our Discord to ask questions, share progress, and connect with other partic
 
 ---
 
-**The Workshop Team**
+**The Workshop Team — PARSAI**
 School of Physics, Engineering and Computer Science | University of Hertfordshire
